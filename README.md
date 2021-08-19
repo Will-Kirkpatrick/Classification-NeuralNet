@@ -5,8 +5,6 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 --->
-Master's graduate in computational chemistry, specialised in applying machine learning to understand complex structures.
-
 This is a repository for some of the code I worked on outside of my chemistry research.
 
 
